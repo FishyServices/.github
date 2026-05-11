@@ -2,7 +2,7 @@
 
 better alternatives for tools and services [I use](https://github.com/official-notfishvr).
 
-## Projects
+## Projects (all private right now)
 
 ### [FishyAuth](https://github.com/FishyServices/FishyAuth)
 An alternative to [KeyAuth](https://keyauth.cc/)
